@@ -16,9 +16,9 @@
     "hono": "4.12.28"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20241004.0",
+    "@cloudflare/workers-types": "5.20260707.1",
     "@types/node": "22.7.5",
-    "wrangler": "3.83.0",
+    "wrangler": "4.107.0",
     "prettier-plugin-organize-imports": "4.1.0",
     "prettier": "3.3.3"
   },
